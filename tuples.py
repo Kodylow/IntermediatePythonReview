@@ -14,7 +14,7 @@ mytuple.index("l")
 sliced_tuple = apple_tuple[2:4]
 
 my_tuple = (0,1,2,3,4,5)
-# destructure tuple, star takes everything not exlicitly destructured into a list
+# destructure tuple, star takes everything not explicitly destructured into a list
 i1, *i2, i3 = my_tuple
 
 # tuples are more efficient than lists
